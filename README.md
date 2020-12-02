@@ -1,5 +1,6 @@
 # optical-cam
 webカメラを光学迷彩にする
+OpenCV, GoCV, v4l2を利用する必要が有る
 
 ## api
 
